@@ -1,3 +1,5 @@
+// (c) Stefan Iovitu 2025
+
 #include <Servo.h>
 #include <Keypad.h>
 
